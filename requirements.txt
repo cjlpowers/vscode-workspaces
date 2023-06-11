@@ -1,0 +1,7 @@
+ipywidgets
+matplotlib
+#numpy==1.24.2
+pandas
+#torch==1.12.1
+torchvision
+tqdm
